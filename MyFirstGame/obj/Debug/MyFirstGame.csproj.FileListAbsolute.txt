@@ -1,0 +1,11 @@
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.exe.config
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.exe
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\MyFirstGame.pdb
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\OpenTK.dll
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\OpenTK.pdb
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\OpenTK.xml
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.exe
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\obj\Debug\MyFirstGame.pdb
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\level1.bmp
+C:\Users\Hannes\Documents\Visual Studio 2012\Projects\MyFirstGame\MyFirstGame\bin\Debug\level2.bmp
